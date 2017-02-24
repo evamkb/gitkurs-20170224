@@ -2,3 +2,5 @@ Test1.txt
 testing diff
 test rad 3
 test rad 4
+Snickaren lägger till en rad
+Snickaren lägger till en till rad
