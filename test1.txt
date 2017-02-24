@@ -1,3 +1,5 @@
 Test1.txt
 testing diff
 Snickaren lägger till en rad
+Snickaren lägger till en till rad
+
